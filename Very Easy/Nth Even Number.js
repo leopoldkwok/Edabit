@@ -3,10 +3,10 @@
 
 // Examples
 // nthEven(1) ➞ 0
-// // 0 is first even number
+// 0 is first even number
 
 // nthEven(2) ➞ 2
-// // 2 is second even number
+// 2 is second even number
 
 // nthEven(100) ➞ 198
 
